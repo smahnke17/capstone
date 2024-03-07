@@ -1,5 +1,4 @@
 import streamlit as st
-pip install st-pages 
 from st_pages import Page, show_pages, add_page_title
 import pandas as pd
 import numpy as np
